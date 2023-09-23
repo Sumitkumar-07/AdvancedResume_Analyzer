@@ -2,7 +2,6 @@ streamlit
 nltk
 spacy
 pandas
-base64
 random
 time
 datetime
