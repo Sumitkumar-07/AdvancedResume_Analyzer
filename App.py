@@ -89,7 +89,7 @@ def course_recommender(course_list):
     return rec_course
 
 
-connection = pymysql.connect(host='localhost', user='root', password='shrutika')
+connection = pymysql.connect(host='localhost', user='root', password='YOUR_PASSWORD')
 cursor = connection.cursor()
 
 
