@@ -28,6 +28,9 @@ Advance Resume Analyzer is a Streamlit-based web application that allows users t
 
 The application uses a **MySQL database** to store user data. You can find the database configuration in the code.
 
+## Important
+- Make sure to write your Mysql credential in the code in place of localhost,user,pass
+
 ## Data Visualization
 
 The README file includes data visualization using **Plotly**, displaying pie charts for predicted job fields and user experience levels based on the collected user data.
